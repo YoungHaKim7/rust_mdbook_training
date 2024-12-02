@@ -1,0 +1,1 @@
+# rust_mdbook_training
